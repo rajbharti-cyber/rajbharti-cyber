@@ -135,7 +135,4 @@ If you work in **cyber risk, technology risk advisory, or security governance**,
 I’d be glad to connect and exchange perspectives.
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Risk--First%20%7C%20Audit--Ready%20%7C%20Business--Aligned-1f6feb?style=for-the-badge">
 </p>
