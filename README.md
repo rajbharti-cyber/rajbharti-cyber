@@ -123,8 +123,6 @@ https://github.com/rajbharti-cyber/Threat-Modeling-STRIDE
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajbharti-cyber&show_icons=true&theme=tokyonight">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbharti-cyber&layout=compact&theme=tokyonight">
