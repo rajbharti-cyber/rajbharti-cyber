@@ -84,25 +84,40 @@ to ensure risks are:
 
 ## 📁 Featured Projects
 
-### 🏦 Cyber Risk Assessment Framework
-Structured risk assessment approach including:
-- Risk identification
-- Inherent vs residual risk
+### 🏦 Cyber Risk Management Framework
+Structured cyber risk governance framework demonstrating:
+- Risk identification & assessment
+- Residual risk evaluation
 - Risk scoring methodology
-- Remediation tracking
+- Control gap assessment
+- Governance-focused documentation
 
-### 📋 ISO 27001 Control Mapping
-Control mapping and audit-readiness documentation aligned with ISO 27001 requirements.
+🔗 Repository:  
+https://github.com/rajbharti-cyber/Risk-Management-Framework
 
-### 🧪 ITGC Control Testing
-Technology control testing focused on:
-- Access management
-- Logging & monitoring
-- Change management
-- Backup controls
+---
 
-### 🏥 HIPAA-Aligned Security Governance
-Risk and compliance-focused governance review for healthcare-aligned environments.
+### 📋 ISO 27001 Policy Suite
+Governance and compliance-focused security policy documentation aligned with ISO 27001 principles.
+
+🔗 Repository:  
+https://github.com/rajbharti-cyber/ISO27001-Policy-Suite
+
+---
+
+### 🧪 Incident Response Playbooks
+Structured incident governance and response workflows designed to support operational readiness and escalation management.
+
+🔗 Repository:  
+https://github.com/rajbharti-cyber/Incident-Response-Playbooks
+
+---
+
+### 🛡️ Threat Modeling — STRIDE
+Risk-focused threat modeling project demonstrating structured identification of security threats and mitigation considerations.
+
+🔗 Repository:  
+https://github.com/rajbharti-cyber/Threat-Modeling-STRIDE
 
 ---
 
