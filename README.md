@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/Third--Party%20Risk-Vendor%20Governance-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GRC-Operational%20Resilience-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Technology%20Risk-ISO%2027001%20Alignment-blue?style=for-the-badge">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Cyber%20Risk-Governance-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Technology%20Risk-Operational%20Resilience-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/GRC-Executive%20Reporting-blue?style=for-the-badge">
