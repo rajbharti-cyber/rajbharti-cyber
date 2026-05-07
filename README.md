@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Cyber%20Risk-Governance-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Technology%20Risk-Operational%20Resilience-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GRC-Executive%20Reporting-blue?style=for-the-badge">
+</p>
+
 # 🛡️ Raj Bharti — Cyber Risk & GRC Consultant
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Cyber%20Risk%20%7C%20Technology%20Risk%20%7C%20GRC&fontSize=38&fontColor=ffffff)
