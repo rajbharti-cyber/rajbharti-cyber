@@ -134,8 +134,8 @@ I’m particularly interested in helping organizations build:
 ## 📬 Connect With Me
 
 💼 GitHub: https://github.com/rajbharti-cyber  
-🔗 LinkedIn: Add Your LinkedIn Here  
-📧 Email: Add Your Email Here
+🔗 LinkedIn: https://www.linkedin.com/in/rajbharti-cybersecurity/  
+📧 Email: rjbharti545@gmail.com
 
 ---
 
