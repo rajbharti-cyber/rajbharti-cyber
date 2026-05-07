@@ -1,138 +1,144 @@
-## Hi there 👋  
-# 🛡️ Raj Bharti — Cyber Risk & GRC Consultant  
+# 🛡️ Raj Bharti — Cyber Risk & GRC Consultant
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Cyber%20Risk%20%7C%20Technology%20Risk%20%7C%20GRC&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Cyber%20Risk%20%7C%20Technology%20Risk%20%7C%20GRC&fontSize=38&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber+Risk+%26+Technology+Risk+Consultant;Governance+%7C+Risk+%7C+Compliance+(GRC);Audit-Ready+%7C+Risk-First+Security;Turning+Tech+Risk+into+Business+Insight&center=true&width=700&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber+Risk+%26+Technology+Risk;Governance+%7C+Risk+%7C+Compliance+(GRC);Risk-First+%7C+Audit-Ready+Security;Business-Aligned+Cybersecurity&center=true&width=700&height=45">
 </p>
 
 ---
 
-## 👋 Hi, I'm Raj  
-I work in **Cyber Risk, Technology Risk, and Governance, Risk & Compliance (GRC)**—helping organizations understand how **technology risks translate into business, regulatory, and operational impact**.
+## 👋 About Me
 
-With **2.8 years of experience across regulated environments** such as **financial services and healthcare**, I bring a **risk-first, governance-driven approach** to cybersecurity—focused on **controls, compliance, and defensible risk decisions**, not just tools.
+I work in **Cyber Risk, Technology Risk, and Governance, Risk & Compliance (GRC)**, helping organizations understand how technology risk translates into **business, regulatory, and operational impact**.
 
-I regularly partner with **security, IT, audit, and business teams** to ensure technology risks are:
-- Clearly identified  
-- Properly controlled  
-- Well-documented  
-- Audit-ready  
+With experience across **regulated industries including healthcare and financial services**, I bring a **risk-first and governance-driven approach** to cybersecurity.
 
----
+My work focuses on:
+- Technology risk assessments
+- Control effectiveness reviews
+- Audit readiness support
+- Compliance-aligned governance activities
+- Risk reporting and remediation tracking
 
-## 👁️ Profile Views  
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rajbharti-cyber&color=blue&style=for-the-badge">
-</p>
+I regularly support collaboration between:
+- Security teams
+- IT operations
+- Audit & compliance stakeholders
+- Business functions
 
----
-
-## 🏢 What I Do — Cyber Risk & GRC Focus  
-
-### 🧭 **Cyber & Technology Risk Assessment**
-- Identify cyber and technology risks across systems and processes  
-- Evaluate inherent vs residual risk  
-- Translate technical findings into **business-aligned risk statements**
-
-### 📋 **Governance, Risk & Compliance (GRC)**
-- Policy and control documentation support  
-- Evidence collection and audit preparation  
-- Control mapping against regulatory and industry frameworks  
-
-### 🧪 **Control Effectiveness Testing**
-- Design and operating effectiveness testing  
-- Identification of control gaps and weaknesses  
-- Risk-based remediation recommendations  
-
-### ⚖️ **Regulatory & Audit Readiness**
-- Support internal, external, and regulatory audits  
-- Ensure controls are **defensible, traceable, and aligned**  
-- Reduce audit observations through proactive risk management  
-
-### 🔎 **Risk-Informed Security Oversight**
-- Use vulnerability and monitoring inputs to inform risk decisions  
-- Support incident governance and post-incident risk reporting  
+to ensure risks are:
+- identified,
+- documented,
+- defensible,
+- and aligned with regulatory expectations.
 
 ---
 
-## 🧠 How I Approach Cybersecurity  
+## 🧭 Core Areas of Focus
 
-I come from **financial operations and compliance-driven environments**, which shapes how I approach cybersecurity:
+### 🔹 Cyber & Technology Risk
+- Technology risk assessments
+- Control gap identification
+- Residual risk evaluation
+- Risk documentation & reporting
 
-- I focus on **governance over gadgets**
-- I understand **how data flows and where controls fail**
-- I assess **identity, access, logging, and process gaps** through a **risk lens**
-- I translate technical issues into **financial loss, regulatory exposure, and audit impact**
+### 🔹 Governance, Risk & Compliance (GRC)
+- Policy & control support
+- Audit evidence preparation
+- Compliance readiness activities
+- Governance documentation
 
-> I believe effective cybersecurity is not just about tools —  
-> it’s about **governance, accountability, and informed risk ownership**.
+### 🔹 Control Testing & Audit Support
+- Design & operating effectiveness reviews
+- Access control validation
+- Security control assessment
+- Audit readiness coordination
 
----
-
-## 🧰 GRC & Risk Consulting Toolkit  
-
-### **Frameworks & Standards**
-`ISO 27001` • `NIST CSF` • `HIPAA` • `CIS Controls`  
-`Technology Risk Management` • `Control Testing`
-
-### **Risk & Governance Activities**
-`Risk Assessments` • `Control Mapping` • `Audit Evidence`  
-`Policy Support` • `Risk Registers` • `Residual Risk Analysis`
-
-### **Security & Risk Inputs**
-`Vulnerability Findings` • `Security Monitoring`  
-`Incident Reporting` • `Access Reviews`
-
-### **Tools Exposure**
-`ServiceNow` • `EPIC` • `SIEM Outputs` • `Vulnerability Scanners`
+### 🔹 Risk-Informed Security Oversight
+- Security monitoring insights
+- Vulnerability risk review
+- Incident governance support
+- Business-aligned remediation tracking
 
 ---
 
-## 🧱 Representative Risk & GRC Work  
+## 🧰 Frameworks & Risk Domains
 
-### 🏦 **Technology Risk Assessment — Regulated Environment**
-Identified control gaps across identity, access, and logging; evaluated residual risk and supported remediation tracking.
+### 📋 Frameworks & Standards
+`ISO 27001` • `NIST CSF` • `HIPAA` • `CIS Controls`
 
-### 📑 **Audit Readiness & Evidence Support**
-Collected, validated, and organized control evidence aligned to audit and regulatory expectations.
+### 📊 Risk & Governance Activities
+`Risk Assessments` • `Control Testing` • `Audit Readiness`  
+`Control Gap Analysis` • `Residual Risk Evaluation`
 
-### 🧪 **Control Effectiveness Testing**
-Performed design and operating effectiveness testing for IT and security controls.
+### 🏢 Governance & Documentation
+`Policy Support` • `Evidence Collection` • `Risk Registers`  
+`Security Governance` • `Compliance Coordination`
 
-### ⚠️ **Risk Reporting & Governance Support**
-Translated technical findings into clear, business-aligned risk insights for stakeholders.
-
-### 🏥 **Healthcare Technology Risk Exposure**
-Supported risk assessments in HIPAA-aligned environments, ensuring documentation and controls met compliance expectations.
+### 🛠️ Platforms & Exposure
+`ServiceNow` • `EPIC` • `SIEM Monitoring Outputs`  
+`Security Dashboards` • `Audit Documentation`
 
 ---
 
-## 📊 GitHub Analytics  
+## 📁 Featured Projects
+
+### 🏦 Cyber Risk Assessment Framework
+Structured risk assessment approach including:
+- Risk identification
+- Inherent vs residual risk
+- Risk scoring methodology
+- Remediation tracking
+
+### 📋 ISO 27001 Control Mapping
+Control mapping and audit-readiness documentation aligned with ISO 27001 requirements.
+
+### 🧪 ITGC Control Testing
+Technology control testing focused on:
+- Access management
+- Logging & monitoring
+- Change management
+- Backup controls
+
+### 🏥 HIPAA-Aligned Security Governance
+Risk and compliance-focused governance review for healthcare-aligned environments.
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajbharti-cyber&show_icons=true&theme=react">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbharti-cyber&layout=compact&theme=react">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajbharti-cyber&show_icons=true&theme=tokyonight">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbharti-cyber&layout=compact&theme=tokyonight">
 </p>
 
 ---
 
-## 🎯 Current Career Focus  
-- Cyber Risk Consulting  
-- Technology Risk & Controls  
-- GRC & Audit Readiness  
-- Risk & Compliance Advisory  
-- Regulated Industry Environments  
+## 🎯 Career Focus
+
+I’m currently focused on opportunities in:
+- Cyber Risk Consulting
+- Technology Risk
+- IT Risk & Controls
+- GRC Consulting
+- Audit & Compliance Readiness
+
+I’m particularly interested in helping organizations build:
+- resilient governance models,
+- mature control environments,
+- and risk-aware security practices.
 
 ---
 
-## 📬 Let’s Connect  
-💼 **GitHub:** https://github.com/rajbharti-cyber  
-🔗 **LinkedIn:** *(add your link)*  
-📧 **Email:** *(add your email)*  
+## 📬 Connect With Me
 
-If you work in **cyber risk, technology risk advisory, or security governance**,  
-I’d be glad to connect and exchange perspectives.
+💼 GitHub: https://github.com/rajbharti-cyber  
+🔗 LinkedIn: Add Your LinkedIn Here  
+📧 Email: Add Your Email Here
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cyber%20Risk%20%7C%20Technology%20Risk%20%7C%20GRC-1f6feb?style=for-the-badge">
 </p>
